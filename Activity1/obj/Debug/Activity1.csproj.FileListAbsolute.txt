@@ -1,0 +1,7 @@
+C:\Users\Michel Godala\source\repos\Activity1\Activity1\obj\Debug\Activity1.csprojAssemblyReference.cache
+C:\Users\Michel Godala\source\repos\Activity1\Activity1\obj\Debug\Activity1.Form1.resources
+C:\Users\Michel Godala\source\repos\Activity1\Activity1\obj\Debug\Activity1.frmConfirmation.resources
+C:\Users\Michel Godala\source\repos\Activity1\Activity1\obj\Debug\Activity1.frmRegistration.resources
+C:\Users\Michel Godala\source\repos\Activity1\Activity1\obj\Debug\Activity1.Properties.Resources.resources
+C:\Users\Michel Godala\source\repos\Activity1\Activity1\obj\Debug\Activity1.csproj.GenerateResource.cache
+C:\Users\Michel Godala\source\repos\Activity1\Activity1\obj\Debug\Activity1.csproj.CoreCompileInputs.cache
